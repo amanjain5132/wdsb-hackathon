@@ -1,0 +1,66 @@
+body{
+    font-family: 'Poppins';
+    color:black;
+    font-style: bold;
+}
+
+.card {
+    height:auto;
+width:660px;
+margin:20px auto;
+padding:10px;
+border-radius: 16px;
+border: 1px solid #ccc;
+display:flex;
+justify-content: center;
+}
+
+.card-img {
+    width:180px;
+    border-radius: 32px;
+    height:320px;
+    padding: 16px , 16px , 16px , 16px;
+    object-fit: cover;
+
+}
+
+.card-body{
+    padding: 20px;
+}
+
+.btn{
+    background-color: black;
+    padding: 9px 15px;
+    font-size: 16px;
+    color: white;
+    border-radius: 3px;
+    border: 10;
+    cursor: pointer;
+}
+
+.btn2{
+    background-color: white;
+    padding: 9px 15px;
+    font-size: 16px;
+    color: black;
+    border-radius: 3px;
+    border: 10;
+    cursor: pointer;
+}
+
+.offer{
+    border-radius: 30px;
+    font-size: 16px;
+    padding:10px;
+    font-weight: 500px;
+    color:#ffff;
+    background-color: #FFB830;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    font-style: bold;
+}
+.grey
+{
+    color: darkgray;
+}
